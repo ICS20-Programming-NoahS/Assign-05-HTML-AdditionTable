@@ -1,1 +1,2 @@
 # Assign-05-HTML-AdditionTable
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-NoahS/Assign-05-HTML-AdditionTable/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-NoahS/Assign-05-HTML-AdditionTable/actions)
