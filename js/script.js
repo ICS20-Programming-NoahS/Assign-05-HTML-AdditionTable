@@ -31,7 +31,7 @@ function DisplaySum() {
     // use a while loop to display all the sums
     while (counter <= userMax) {
       // build the string of numbers with a line break each time
-      numbers = userNumber + " + " + counter + " = " + (userNumber + counter) + "<br>";
+      numbers += userNumber + " + " + counter + " = " + (userNumber + counter) + "<br>";
       // Increment the counter
       counter++;
     }
